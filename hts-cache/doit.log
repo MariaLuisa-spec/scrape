@@ -1,4 +1,4 @@
--qir2C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "" -%l "en, *" https://www.classcentral.com/ -O1 "C:\My Web Sites\class6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+-qir2C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "" -%l "en, *" https://classcentral/ -O1 "C:\My Web Sites\class6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 File generated automatically on Thu, 02 Mar 2023 10:26:38, do NOT edit
 
 To update a mirror, just launch httrack without any parameters

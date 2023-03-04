@@ -1,139 +1,278 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 10:26:38 at https://www.classcentral.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qir2C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F  -%l "en, *" https://www.classcentral.com/ -O1 "C:\My Web Sites\class6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/maths (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/engineering (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/art-and-design (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-and-software-development (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
-10:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
-10:35:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/information-technology (from https://www.classcentral.com/)
-10:35:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
-10:35:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
-10:35:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
-10:35:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
-10:35:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/distributed-systems (from https://www.classcentral.com/)
-10:35:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/disease-and-disorders (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/public-health (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nursing (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anatomy (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cme (from https://www.classcentral.com/)
-10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/statistics (from https://www.classcentral.com/)
-10:35:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
-10:35:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/discrete-mathematics (from https://www.classcentral.com/)
-10:35:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/trigonometry (from https://www.classcentral.com/)
-10:35:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/algebra (from https://www.classcentral.com/)
-10:35:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
-10:35:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
-10:35:57	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/combinatorics (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/entrepreneurship (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/strategic-management (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/industry-specific (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-intelligence (from https://www.classcentral.com/)
-10:36:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/accounting (from https://www.classcentral.com/)
-10:36:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/project-management (from https://www.classcentral.com/)
-10:36:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
-10:36:10	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/design-thinking (from https://www.classcentral.com/)
-10:36:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/customer-service (from https://www.classcentral.com/)
-10:36:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
-10:36:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/innovation (from https://www.classcentral.com/)
-10:36:22	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/operations-management (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/philosophy (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/esl (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/journalism (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/food (from https://www.classcentral.com/)
-10:36:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/library-science (from https://www.classcentral.com/)
-10:36:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
-10:36:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/civil-engineering (from https://www.classcentral.com/)
-10:36:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
-10:36:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
-10:36:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
-10:36:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
-10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemistry (from https://www.classcentral.com/)
-10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
-10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
-10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
-10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
-10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/materials-science (from https://www.classcentral.com/)
-10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
-10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/forensic-science (from https://www.classcentral.com/)
-10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
-10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
-10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
-10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
-10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/online-education (from https://www.classcentral.com/)
-10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
-10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
-10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/economics (from https://www.classcentral.com/)
-10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
-10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/political-science (from https://www.classcentral.com/)
-10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
-10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
-10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-rights (from https://www.classcentral.com/)
-10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
-10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
-10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-work (from https://www.classcentral.com/)
-10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/childhood-development (from https://www.classcentral.com/)
-10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
-10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/visual-arts (from https://www.classcentral.com/)
-10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
-10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
-10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-mining (from https://www.classcentral.com/)
-10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
-10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
-10:37:36	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
-10:37:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
-10:37:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
-10:37:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
-10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cybersecurity (from https://www.classcentral.com/)
-10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
-10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
-10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
-10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
-10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/malware-analysis (from https://www.classcentral.com/)
-10:38:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
-10:38:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/threat-intelligence (from https://www.classcentral.com/)
-10:38:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/whartonmarketing-1137 (from https://www.classcentral.com/)
-10:38:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
-10:39:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
-10:39:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/skillshare (from https://www.classcentral.com/)
-10:39:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/providers (from https://www.classcentral.com/)
-10:39:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/ibm (from https://www.classcentral.com/)
-10:39:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/united-nations (from https://www.classcentral.com/)
-10:39:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
-10:40:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
-10:40:24	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
-10:40:25	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
-10:40:25	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
-10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
-
-HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 4 seconds : 424 links scanned, 298 files written (92913763 bytes overall), 298 files updated [15813694 bytes received at 18736 bytes/sec], 94764384 bytes transferred using HTTP compression in 162 files, ratio 13%, 2.9 requests per connection
-(121 errors, 7 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 10:26:38 at https://classcentral/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+classcentral
+(winhttrack -qir2C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F  -%l "en, *" https://www.classcentral.com/ -O1 "C:\My Web Sites\class6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contaclasscentraltion,classcentral
+classcentralclasscentral
+	such as username/password authentication for websites mirrclasscentralclasscentral
+classcentralclasscentral
+	do not share these files/folders if you want these informaclasscentralteclasscentral
+classcentralclasscentral
+classcentralclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/maths (from https://www.claclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/business (from https://www.classcenclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/humanities (from https://www.classcenclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/engineering (from https://www.cclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/science (from https://www.clclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/education (from https://wclasscentral)
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/social-sciences (from https:classcentralom/)
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/art-and-design (from hclasscentralral.com/)
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/data-science (from https://www.clclasscentral
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/programming-and-software-classcentraltps://www.classcentral.com/)
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/personal-development (from https://classcentral/)
+classcentralclasscentral
+10:34:23	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/infosec (from https://classcentral/)
+classcentralclasscentral
+10:35:30	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/information-technology (fromclasscentralntral.com/)
+classcentralclasscentral
+10:35:30	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/computer-networking (from httpsclasscentralcom/)
+classcentralclasscentral
+10:35:30	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/machine-learning (from https://www.classcentral
+classcentralclasscentral
+10:35:30	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/devops (from https://www.classcentraclasscentral
+classcentralclasscentral
+10:35:30	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/deep-learning (from https://www.cclasscentral
+classcentralclasscentral
+10:35:40	Error: 	"Too Many Requests" (429) at link https://www.classcentclasscentralributed-systems (from https://www.classclasscentral
+classcentralclasscentral
+10:35:40	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/blockchain (from https:/classcentralm/)
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://www.classcentclasscentralase-and-disorders (from https://www.classcentclasscentral
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/public-health (from https://wwclasscentral
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/health-care (from httpsclasscentralcom/)
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/nursing (from https://classcentral/)
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/anatomy (from https://wwwclasscentral
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/veterinary-science (from hclasscentralral.com/)
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/cme (from https://www.classcenclasscentral
+classcentralclasscentral
+10:35:51	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/statistics (from https://www.claclasscentral
+classcentralclasscentral
+10:35:54	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/calculus (from httclasscentrall.com/)
+classcentralclasscentral
+10:35:54	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/discrete-mathematics (from htclasscentralal.com/)
+classcentralclasscentral
+10:35:54	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/trigonometry (from httclasscentrall.com/)
+classcentralclasscentral
+10:35:57	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/algebra (from https://classcentral/)
+classcentralclasscentral
+10:35:57	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/precalculus (from https://www.clclasscentral
+classcentralclasscentral
+10:35:57	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/number-theory (from https://wwwclasscentral
+classcentralclasscentral
+10:35:57	Warning: 	Retry after error -4 (Connect Error) at classcentralsscentral.com/subject/combinatorics (froclasscentralentral.com/)
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/entrepreneurship (from https://wwclasscentral
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/marketing (from https:/classcentralm/)
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/strategic-management (frclasscentralcentral.com/)
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/industry-specific (from https://classcentral/)
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/business-intelligence (from hclasscentralral.com/)
+classcentralclasscentral
+10:36:07	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/accounting (from https://classcentral/)
+classcentralclasscentral
+10:36:10	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/project-management (from hclasscentralral.com/)
+classcentralclasscentral
+10:36:10	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/sales (from https://www.clasclasscentral
+classcentralclasscentral
+10:36:10	Warning: 	Retry after error -4 (Connect Error) at classcentralsscentral.com/subject/design-thinking (from hclasscentralral.com/)
+classcentralclasscentral
+10:36:22	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/customer-service (from httclasscentrall.com/)
+classcentralclasscentral
+10:36:22	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/nonprofit (from https://www.classclasscentral
+classcentralclasscentral
+10:36:22	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/innovation (from https://www.classcclasscentral
+classcentralclasscentral
+10:36:22	Warning: 	Retry after error -4 (Connect Error) at classcentralsscentral.com/subject/operations-managementclasscentrallasscentral.com/)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/language-learning (from https:/classcentralm/)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/grammar-writing (from https://www.classcentral
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/philosophy (from https://www.clclasscentral
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/religion (from https://www.classceclasscentral
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/esl (from https:/classcentralm/)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/culture (from https://www.classcentral
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/sports (from https://wclasscentral)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link https://classcentral/subject/journalism (from https://www.classclasscentral
+classcentral
+10:36:29	Error: 	"Too Many Requests" (429) at lclasscentralscentral.com/subject/ethics (from https://wwwclasscentral
+classcentral
+10:36:29	Error: 	"Too Many Requests" (429) at lclasscentralscentral.com/subject/linguistics (from htclasscentralal.com/)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link classcentraltral.com/subject/food (from classcentraltral.com/)
+classcentralclasscentral
+10:36:29	Error: 	"Too Many Requests" (429) at link classcentraltral.com/subject/library-science (from classcentraltral.com/)
+classcentralclasscentral
+10:36:40	Error: 	"Too Many Requests" (429) at link classcentraltral.com/subject/mclasscentralg (from https://www.classcentral.com/)
+classcentralclasscentral
+10:36:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/civil-engineering (from https://www.classcentral.com/)
+
+10:36:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
+
+10:36:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
+
+10:36:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
+
+10:36:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+
+10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemistry (from https://www.classcentral.com/)
+
+10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+
+10:36:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+
+10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+
+10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+
+10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/materials-science (from https://www.classcentral.com/)
+
+10:37:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+
+10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/forensic-science (from https://www.classcentral.com/)
+
+10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
+
+10:37:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
+
+10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
+
+10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+
+10:37:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/online-education (from https://www.classcentral.com/)
+
+10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+
+10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
+
+10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/economics (from https://www.classcentral.com/)
+
+10:37:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+
+10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/political-science (from https://www.classcentral.com/)
+
+10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+
+10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+
+10:37:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-rights (from https://www.classcentral.com/)
+
+10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+
+10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+
+10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-work (from https://www.classcentral.com/)
+
+10:37:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/childhood-development (from https://www.classcentral.com/)
+
+10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+
+10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/visual-arts (from https://www.classcentral.com/)
+
+10:37:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+
+10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
+
+10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-mining (from https://www.classcentral.com/)
+
+10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+
+10:37:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+
+10:37:36	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+
+10:37:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
+
+10:37:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
+
+10:37:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
+
+10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cybersecurity (from https://www.classcentral.com/)
+
+10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+
+10:37:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
+
+10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
+
+10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+
+10:37:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/malware-analysis (from https://www.classcentral.com/)
+
+10:38:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
+
+10:38:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/threat-intelligence (from https://www.classcentral.com/)
+
+10:38:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/whartonmarketing-1137 (from https://www.classcentral.com/)
+
+10:38:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+
+10:39:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+
+10:39:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/skillshare (from https://www.classcentral.com/)
+
+10:39:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/providers (from https://www.classcentral.com/)
+
+10:39:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/ibm (from https://www.classcentral.com/)
+
+10:39:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/united-nations (from https://www.classcentral.com/)
+
+10:39:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+
+10:40:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+
+10:40:24	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+
+10:40:25	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+
+10:40:25	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+
+10:40:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 4 seconds : 424 links scanned, 298 files written (92913763 bytes overall), 298 files updated [15813694 bytes received at 18736 bytes/sec], 94764384 bytes transferred using HTTP compression in 162 files, ratio 13%, 2.9 requests per connection
+
+(121 errors, 7 warnings, 0 messages)
+
